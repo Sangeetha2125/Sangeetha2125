@@ -63,7 +63,7 @@ In my journey as a developer, I've honed my skills in languages like Java, JavaS
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sangeetha2125&theme=vision-friendly-dark&include_all_commits=true&count_private=true&card_width=500&hide_border=true) 
 
-## Leetcode Stats
+## 🏆 Leetcode Stats
 ![](https://leetcard.jacoblin.cool/gsangeetha-dev?font=Dancing_Script&border_radius=8)
 
 ## ✍️ Random Dev Quote
