@@ -55,7 +55,7 @@ In my journey as a developer, I've honed my skills in languages like Java, JavaS
 ![Profile Summary](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sangeetha2125&theme=vision_friendly_dark&card_width=500)
 
 <div style="display: flex; flex-wrap: wrap; gap:20px">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Sangeetha2125&theme=vision_friendly_dark" alt="GitHub Stats">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Sangeetha2125&theme=vision_friendly_dark" alt="GitHub Stats"> 
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Sangeetha2125&theme=vision_friendly_dark" alt="Most Commit Languages">
 </div> <br />
 
