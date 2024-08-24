@@ -2,7 +2,7 @@
 
 ## 👩‍💻 About Me
 
-Hello! 👋 I'm Sangeetha G, a dedicated full-stack developer currently pursuing my bachelor's degree in Rajalakshmi Engineering College, Chennai. With a strong foundation in both front-end and back-end technologies, I thrive on bringing digital ideas to life and crafting seamless user experiences.
+Hello! 👋 I'm Sangeetha G, a dedicated full-stack developer pursuing my bachelor's degree in Rajalakshmi Engineering College, Chennai. With a strong foundation in both front-end and back-end technologies, I thrive on bringing digital ideas to life and crafting seamless user experiences.
 
 In my journey as a developer, I've honed my skills in languages like Java, JavaScript, TypeScript, and Dart, along with frameworks and libraries such as Next.js, React.js, Node.js, Express.js, and Flutter. I enjoy architecting scalable solutions, optimizing performance, and staying up-to-date with the latest industry trends and best practices.
 
