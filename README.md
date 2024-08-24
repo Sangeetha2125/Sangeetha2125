@@ -29,6 +29,7 @@ In my journey as a developer, I've honed my skills in languages like Java, JavaS
 <div style="display: flex; flex-wrap: wrap;">
     <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" style="margin-right: 2px;" />
     <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" alt="Express.js" style="margin-right: 2px;" />
+    <img src="https://img.shields.io/badge/SpringBoot-43853D?style=for-the-badge&logo=springboot&logoColor=white" alt="SpringBoot" style="margin-right: 2px;" />
     <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" style="margin-right: 2px;" />
 </div>
 
